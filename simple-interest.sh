@@ -15,6 +15,7 @@
 
    # Output:
    # simple interest = p*t*r
+   #This is a test comment
 
    echo "Enter the principal:"
    read p
